@@ -3,6 +3,7 @@
 ### Description
 
 A real-time bus tracker for the buses moving between MIT and Harvard in Boston, Massachusetts.
+
 **Improvements:** 
 - Each bus marker has been given a different color in order to distinguish between the buses.
 - Each bus has also been given a pop-up identifying bus number as to also distingusih between the buses.
